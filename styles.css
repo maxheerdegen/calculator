@@ -30,9 +30,10 @@ h1, .footer {
     border: solid;
     border-width: 0px 2px 2px 0px;
     border-color: black;
+    font-size: 30px;
 }
 
-.operator {
+.operator, .equals{
     background-color: grey;
     color: white;
 }
